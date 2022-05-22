@@ -15,47 +15,4 @@ To develop this application, the trifecta of web technologies, i.e., HTML, CSS, 
 
 # JSON
 
-{
-  "coord": {
-    "lon": -122.08,
-    "lat": 37.39
-  },
-  "weather": [
-    {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
-    }
-  ],
-  "base": "stations",
-  "main": {
-    "temp": 282.55,
-    "feels_like": 281.86,
-    "temp_min": 280.37,
-    "temp_max": 284.26,
-    "pressure": 1023,
-    "humidity": 100
-  },
-  "visibility": 10000,
-  "wind": {
-    "speed": 1.5,
-    "deg": 350
-  },
-  "clouds": {
-    "all": 1
-  },
-  "dt": 1560350645,
-  "sys": {
-    "type": 1,
-    "id": 5122,
-    "message": 0.0139,
-    "country": "US",
-    "sunrise": 1560343627,
-    "sunset": 1560396563
-  },
-  "timezone": -25200,
-  "id": 420006353,
-  "name": "Mountain View",
-  "cod": 200
-  }
+{"coord":{"lon":72.8479,"lat":19.0144},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":29.99,"feels_like":36.99,"temp_min":29.99,"temp_max":29.99,"pressure":1003,"humidity":84},"visibility":3500,"wind":{"speed":4.63,"deg":230},"clouds":{"all":40},"dt":1653252504,"sys":{"type":1,"id":9052,"country":"IN","sunrise":1653265922,"sunset":1653313136},"timezone":19800,"id":1275339,"name":"Mumbai","cod":200}
