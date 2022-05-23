@@ -1,6 +1,6 @@
 # Overview
 
-To develop this application, the trifecta of web technologies, i.e., HTML, CSS, and JavaScript were used. Node.js and Express Technologies helped in creating a proper back-end of the app server in JavaScript. An input textbox is conjured in the app's UI where users can enter the name of a location.
+To develop this application, the trifecta of web technologies, i.e., HTML, CSS, and JavaScript were used. Node.js helped in creating a proper back-end of the app server in JavaScript. An input textbox is conjured in the app's UI where users can enter the name of a location.
 
 # Preview
 
